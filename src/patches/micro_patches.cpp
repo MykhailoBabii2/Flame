@@ -39,6 +39,7 @@ bool patch::fix_chat_buffer_invalid_memory_access::enabled = true;
 bool patch::hero_party_spawn_limit_fix::enabled = true;
 bool patch::drop_thing_from_hand_fix::enabled = true;  // incompatible with 1.7
 bool patch::sleeping_possession_fix::enabled = true;
+bool patch::leaving_dungeon_null_room_fix::enabled = true;
 bool patch::while_without_syscall_fix::enabled = true;
 bool patch::display_incompatible_reason::enabled = true;
 bool patch::buffer_overrun_fix::enabled = true;

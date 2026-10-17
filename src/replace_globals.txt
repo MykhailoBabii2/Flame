@@ -35,6 +35,9 @@
 # CMap
 00450770 uint32_t CMap::attachToRoom(int, int, uint16_t, int16_t, int, int)
 
+# CState
+0045A000 BOOL CState::leavingDungeon_195_45A000()
+
 # CCreature
 0045A8B0 void CCreature::updateIsAttackable()
 0048E6A0 BOOL CCreature::_belongsTo(int16_t)

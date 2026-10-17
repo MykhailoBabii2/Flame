@@ -36,6 +36,7 @@ add_library(${TARGET} SHARED
         dk2/RegKey.cpp
         dk2/MyComputerPlayer.cpp
         dk2/CRoom.cpp
+        dk2/CState.cpp
         dk2/CBridge.cpp
         dk2/CCamera.cpp
         dk2/CWorld.cpp

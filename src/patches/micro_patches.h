@@ -90,6 +90,10 @@ namespace sleeping_possession_fix {
     extern bool enabled;
 }
 
+namespace leaving_dungeon_null_room_fix {
+    extern bool enabled;
+}
+
 namespace while_without_syscall_fix {
     extern bool enabled;
 }
